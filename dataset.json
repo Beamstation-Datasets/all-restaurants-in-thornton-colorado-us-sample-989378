@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Restaurant intelligence dataset for Thornton, Colorado with a population of over 141k. Filtered by the Restaurants category group with business profiles, ratings, competitive metrics, and contact details. Refreshed weekly.",
   "config_name": "All Restaurants in Thornton, Colorado, US",
-  "export_job_id": "7e5ccf13-65f7-4161-b81b-2a4a12ec6d6b",
+  "export_job_id": "46afe87b-b6de-4750-abb8-3dc339598fd6",
   "github_org": "Beamstation-Datasets",
   "id_short": 989378,
   "location_name": "Thornton",
   "location_type": "city",
   "repo_name": "all-restaurants-in-thornton-colorado-us-sample-989378",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/989378/beamstation_989378_restaurants-us-co_SAMPLE_DIST.csv",
-  "sample_pct": 8.86,
+  "sample_pct": 9.68,
   "sample_records": 24,
   "sample_sha256": "a9e993885d9af30740a91ebf4516087d61ab73d05de225016facc144f7bff001",
   "sample_size_bytes": 96180,
-  "total_records": 271,
-  "updated_at": "2026-04-09T11:40:07.028610+00:00"
+  "total_records": 248,
+  "updated_at": "2026-04-16T11:46:10.353835+00:00"
 }

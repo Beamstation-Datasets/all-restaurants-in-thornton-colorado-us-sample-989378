@@ -1,12 +1,12 @@
 {
-  "export_job_id": "7e5ccf13-65f7-4161-b81b-2a4a12ec6d6b",
+  "export_job_id": "46afe87b-b6de-4750-abb8-3dc339598fd6",
   "id_short": 989378,
-  "published_at": "2026-04-16T19:41:35Z",
+  "published_at": "2026-04-19T19:24:36Z",
   "repo_name": "all-restaurants-in-thornton-colorado-us-sample-989378",
   "sample_asset_name": "beamstation_989378_restaurants-us-co_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/989378/beamstation_989378_restaurants-us-co_SAMPLE_DIST.csv",
   "sample_records": 24,
   "sample_sha256": "a9e993885d9af30740a91ebf4516087d61ab73d05de225016facc144f7bff001",
   "sample_size_bytes": 96180,
-  "total_records": 271
+  "total_records": 248
 }

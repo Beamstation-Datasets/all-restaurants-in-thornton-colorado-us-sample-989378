@@ -9,9 +9,9 @@
 | Dataset ID | `989378` |
 | Location | Thornton |
 | Category | Restaurants |
-| Full dataset size | 271 records |
-| Free sample size | 24 records (8.86%) |
-| Last export | 2026-04-09T11:40:07.028610+00:00 |
+| Full dataset size | 248 records |
+| Free sample size | 24 records (9.68%) |
+| Last export | 2026-04-16T11:46:10.353835+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-thornton-colorado-us-sample-989378/releases/download/sample-latest/beamstation_989378_restaurants-us-co_SAMPLE_DIST.csv) |
 
 ## What is in this sample

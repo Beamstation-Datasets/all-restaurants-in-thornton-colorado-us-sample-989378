@@ -1,6 +1,6 @@
 # All Restaurants in Thornton, Colorado, US
 
-> Free BeamStation sample export with 20 rows and masked direct-contact fields.
+> Free BeamStation sample export with 27 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `989378` |
 | Location | Thornton |
 | Category | Restaurants |
-| Full dataset size | 201 records |
-| Free sample size | 20 records (9.95%) |
-| Last export | 2026-04-23T11:15:25.758892+00:00 |
+| Full dataset size | 277 records |
+| Free sample size | 27 records (9.75%) |
+| Last export | 2026-04-30T11:22:58.539682+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-thornton-colorado-us-sample-989378/releases/download/sample-latest/beamstation_989378_restaurants-us-co_SAMPLE_DIST.csv) |
 
 ## What is in this sample
